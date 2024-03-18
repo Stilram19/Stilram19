@@ -1,6 +1,6 @@
 [![obednaou's 42 stats](https://badge.mediaplus.ma/darkblue/obednaou)](https://github.com/oakoudad/badge42)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omar Bednaoui=====================================================================================================================================Software Developer Student at 1337 school Benguerir---------------------------------------------------* 🌍  I'm based in Marrakech* ✉️  You can contact me at [bednaouiomar19@gmail.com](mailto:bednaouiomar19@gmail.com)* 🤝  I'm open to collaborating on interesting projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My I'm Omar Bednaoui, a passionate Software Developer Student at 1337 school Benguerir                           🌍  I'm based in Marrakech* ✉️  You can contact me at [bednaouiomar19@gmail.com](mailto:bednaouiomar19@gmail.com)*                                                                            🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/Stilram19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Stilram19?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
