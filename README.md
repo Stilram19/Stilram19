@@ -1,7 +1,7 @@
 [![obednaou's 42 stats](https://badge.mediaplus.ma/darkblue/obednaou)](https://github.com/oakoudad/badge42)
 
 📚 I'm currently a student at [1337](https://1337.ma/en/)                                                        
-✉️ You can contact me at [gmail](bednaouiomar19@gmail.com) or [1337_mail](obednaou@student.1337.ma)              
+✉️ You can contact me at [gmail](bednaouiomar19@gmail.com) or [1337_mail](obednaou@student.1337.ma)              💼 I'm currently working on 42 post-common-core cursus 
 🤝 I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/Stilram19" target="_blank" rel="noreferrer"><img
