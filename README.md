@@ -1,7 +1,6 @@
 [![obednaou's 42 stats](https://badge.mediaplus.ma/darkblue/obednaou)](https://github.com/oakoudad/badge42)
 
 📚 I'm currently a student at [1337](https://1337.ma/en/)                                                        
-
 ✉️ You can contact me at [gmail][bednaouiomar19@gmail.com] or [1337_mail](obednaou@student.1337.ma)              
 🤝 I'm open to collaborating on interesting projects
 
